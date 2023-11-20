@@ -11,4 +11,4 @@ Le système sonore sera géré par un puissant amplificateur connecté en I2S, e
 
 Enfin un système de TOF (time of flight) sera présent au milieu de l'aile volante vers le bas pour une meilleure estimation de l'altidude.
 
-Le système de caméra sera double, on aura une caméra thermique pour la détection de personnes longue distance (FLIR Lepton), et la caméra optique sera une caméra global shutter haute résolution à déterminer.
+Le système de caméra sera double, on aura une caméra thermique pour la détection de personnes longue distance (Flir Boson®+ CZ 14-75), et la caméra optique sera une caméra global shutter haute résolution à déterminer.
