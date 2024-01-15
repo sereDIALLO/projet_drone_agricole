@@ -22,6 +22,6 @@ Les matériaux utilisés dans la fabrication de l'aile volante peuvent être sou
 # Équipements électroniques : 
 Les réglementations liées aux équipements électroniques, aux fréquences radio et aux communications sans fil peuvent également s'appliquer.
 
-# Signalement électronique
+# Signalement électronique :
 Le dispositif de signalement électronique diffuse à intervalles réguliers l'identité de votre drone lorsqu'il est en vol. Certains drones doivent en être équipés. 
 et pour un Drone supérieur à 800 grammes, il doit émettre un signalement électronique.
