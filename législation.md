@@ -1,4 +1,5 @@
-#Légisaltion : 
+# Légisaltion 
+
 Du point de vue de la législation, un produit comme celui-ci peut être soumis à plusieurs réglementations, en fonction de divers facteurs tels que son utilisation, les réglementations aériennes, la collecte de données, la protection de la vie privée et la sécurité.
 Voici quelques points à considérer en termes de législation :
 Réglementation aérienne : Les drones et les véhicules aériens autonomes sont généralement réglementés par les autorités de l'aviation civile. Vous devrez vous conformer aux règles de vol, aux restrictions d'altitude, et obtenir éventuellement des autorisations spéciales.
